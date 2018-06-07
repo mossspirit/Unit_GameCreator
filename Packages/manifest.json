@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.probuilder": "3.0.8",
+    "com.unity.shadergraph": "1.1.9-preview"
+  }
+}
